@@ -1,0 +1,6 @@
+question,expected,predicted,is_correct,is_complex,reason,indicators
+我手机屏幕碎了，维修要多少钱？,0,0,True,0,,
+华为Mate60 Pro和iPhone 15 Pro Max对比，哪个更值得买？,1,1,True,1,,
+5G手机和4G手机有什么区别？,1,1,True,1,,
+帮我分析一下安卓旗舰手机未来3年的技术发展趋势,1,1,True,1,,
+128GB存储空间够用吗？,0,1,False,1,,
